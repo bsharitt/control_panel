@@ -1,0 +1,2 @@
+## Home Assistant Control Panel
+This is the control panel for my home assistant setup. It's intended to run on a Raspberry Pi with the offical touchscreen at an 800x480 resolution. This is my first time using PyQT, so it's probably not the prettiest code(especially since it's not near done yet). There's a lot of stuff hard coded, so it's probably not useful to anyone else but me, but here it is anyway. 
